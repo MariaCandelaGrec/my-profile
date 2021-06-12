@@ -1,0 +1,44 @@
+body {
+  color: #0E6655;
+	font-size: 20px;
+	font-family: 'Noto Sans JP', sans-serif;
+	background-color: white
+}
+
+#encabezado {
+	color: white;
+	background-color: #0E6655;
+	border-color: #0E6655;
+	font-size: 15px;
+	font-style: normal;
+}
+
+.textojustificado {
+	text-anchor: all;
+	text-align: justify;
+}
+
+#qr {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.banner{
+	background-image:  url "images/Mendoza.mp3"
+	text-align:  center;
+}
+.container {
+  width: 700px; /* set the width of your container */
+  margin: 40px auto; /* set margins: top/bottom: 40px; left/right: automatic */
+  border-color: #0E6655;
+}
+
+.card-white {
+	background-color: white
+	border-color: #0E6655;
+	border-radius:5px; 
+	padding:3px; 
+}
+
